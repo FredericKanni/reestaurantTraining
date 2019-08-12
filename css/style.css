@@ -8,8 +8,9 @@ hr.new5 {
   .vertical-center {
     margin: 0;
     position: absolute;
-    top: 25%;
-
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
   }
 
   .cent{
@@ -30,3 +31,5 @@ hr.new5 {
     height:50vh;
 
   }
+
+
