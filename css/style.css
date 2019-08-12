@@ -3,3 +3,15 @@ hr.new5 {
     border-radius: 5px;
     width : 10%;
   }
+
+
+  .vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 25%;
+
+  }
+
+  .cent{
+    width: 100%;
+  }
